@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.red {
+    border: 1px solid red;
+    box-sizing: border-box;
+}
+
+.green {
+    border: 1px solid green;
+    box-sizing: border-box;
+}
+
+
+
+.blue {
+    border: blue 1px solid;
+    box-sizing: border-box;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap; 
+}
+
+
+
+.absolute{
+    position: absolute;
+}
+
+.relative{
+    position: relative;
+}
+
+.j-s{
+    justify-content: space-between;
+}
+
+.j-s-a{
+    justify-content: space-around;
+}
+
+
+.f-c{flex-direction: column;} 
